@@ -16,7 +16,7 @@ trees in a pretty way.
 * [binary_trees.h](./binary_trees.h): Header file containing definitions and
 prototypes for all types and functions written for the project.
 
-Data Structures
+Data Structures Resources
 ```
 struct binary_tree_s
 {
